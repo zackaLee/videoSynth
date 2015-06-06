@@ -1,0 +1,22 @@
+<Parameters>
+	<countx>200</countx>
+	<stepx>0</stepx>
+	<twistx>1.35</twistx>
+	<Primitive>
+		<shiftY>30.6122</shiftY>
+		<rotate>0</rotate>
+		<size>20, 2.50729</size>
+		<color>108, 184, 112, 4</color>
+		<filled>0</filled>
+		<type>1</type>
+	</Primitive>
+	<countY>16</countY>
+	<stepY>124</stepY>
+	<twistY>-0.9</twistY>
+	<pinchY>1</pinchY>
+	<Global>
+		<Scale>0.612245</Scale>
+		<Rotate>0</Rotate>
+		<Background>255</Background>
+	</Global>
+</Parameters>
